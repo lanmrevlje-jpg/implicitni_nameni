@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">implicitni_nameni</string>
+    <string name="website">Odpri spletno stran</string>
+    <string name="map">Odpri zemljevid</string>
+    <string name="share">Deli besedilo</string>
+</resources>
